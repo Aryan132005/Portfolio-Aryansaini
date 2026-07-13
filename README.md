@@ -1,244 +1,276 @@
 # 🚀 Aryan Saini Portfolio
 
-🌐 Live Website: https://aryansaini-portfolio.vercel.app/
+🌐 **Live Portfolio:** https://aryansaini-portfolio.vercel.app/
+
+📂 **GitHub Repository:** https://github.com/Aryan132005/Portfolio-Aryansaini
 
 ---
 
-## 🏠 Portfolio Preview
+# 🏠 Portfolio Preview
 
-### Home Page
+## Home Page
 
 ![Home Page](assets/portfolio-home.png)
 
-### Portfolio Overview
+## Portfolio Overview
 
 ![Portfolio Overview](assets/portfolio-projects.png)
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Hi, I'm **Aryan Saini**, a passionate **AI/ML Engineer, Python Developer, and Frontend Developer** currently pursuing **B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)** at the **University of Engineering & Management, Jaipur**.
+Hi, I'm **Aryan Saini**, a passionate **Software Developer, AI/ML Engineer, Python Developer, and Full Stack Developer** currently pursuing **B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)** at the **University of Engineering & Management, Jaipur**.
 
-I enjoy building intelligent systems, solving real-world problems, and developing innovative software solutions.
-
----
-
-## 🌟 Features
-
-* ✨ Modern Futuristic UI Design
-* 📱 Fully Responsive Layout
-* 🤖 Interactive 3D Elements
-* 🎬 Animated Hero Section
-* 🧠 AI/ML Focused Portfolio
-* 💼 Project Showcase
-* 🎓 Education Timeline
-* 📄 Research Publication Section
-* ⚡ Skills Visualization
-* 📧 Contact Form with EmailJS
-* 📄 Resume Download Functionality
+I enjoy building intelligent systems, developing scalable software, and solving real-world problems through Artificial Intelligence, Machine Learning, Blockchain, and Web Development.
 
 ---
 
-## 🛠️ Tech Stack
+# ✨ Features
 
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-
-### Libraries & Services
-
-* Typed.js
-* EmailJS
-* Spline 3D
-
-### Development Tools
-
-* Git
-* GitHub
-* VS Code
+- Modern Futuristic UI
+- Fully Responsive Design
+- Interactive 3D Animations
+- Animated Hero Section
+- AI/ML Focused Portfolio
+- Education Timeline
+- Experience Timeline
+- Project Showcase
+- Research Publication
+- Skills Visualization
+- EmailJS Contact Form
+- Resume Download
+- Google Maps Integration
 
 ---
 
-## 🎓 Education
+# 🛠 Tech Stack
 
-### Bachelor of Technology (CSE - AI & ML)
+## Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Libraries & Services
+
+- Typed.js
+- EmailJS
+- Spline 3D
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+---
+
+# 🎓 Education
+
+## Bachelor of Technology (CSE - AI & ML)
 
 **University of Engineering & Management, Jaipur**
 
 📅 2023 – 2027
 
-📊 Current CGPA: **8.4**
+📊 CGPA: **8.4**
 
 ---
 
-### Senior Secondary Education
+## Senior Secondary Education
 
 **Shri Kalyan Shiksha Niketan Sr. Sec. School**
 
-* Class 10: 86%
-* Class 12: 69%
+- Class X – 86%
+- Class XII – 69%
 
 ---
 
-## 💼 Experience
+# 💼 Internship Experience
 
-### Android Developer Virtual Internship
+### Software Development Intern
 
-**Google for Developers × EduSkills**
+**Anethix Labs Private Limited**
 
-### AI/ML Virtual Internship
+---
+
+### Machine Learning Intern
+
+**Auspify Technologies**
+
+---
+
+### Python Programming Intern
+
+**AICTE Oasis Infobyte**
+
+---
+
+### AI/ML Virtual Intern
 
 **AWS Academy × EduSkills**
 
-### AI/ML Virtual Internship
+---
+
+### Android Developer Virtual Intern
 
 **Google for Developers × EduSkills**
 
-### Content Writing Internship
+---
+
+### Content Writing Intern
 
 **InAmigos Foundation**
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### Blockchain Consensus Algorithm Using Game Theory
+## AI Model Marketplace
 
-* Blockchain Technology
-* Game Theory
-* Distributed Systems
+**React • Express.js • Solidity • IPFS**
 
-### Face Enhancement & Reconstruction from CCTV Footage
-
-* Python
-* OpenCV
-* Flask
-* Deep Learning
-
-### AI Image Generator with Stable Diffusion
-
-* Python
-* Hugging Face
-* Stable Diffusion
-
-### AI Virtual Assistant Application
-
-* JavaScript
-* TypeScript
-* CSS
-
-### Diabetes Prediction Using Machine Learning
-
-* Machine Learning
-* Python
-* Pandas
-* NumPy
-
-### Car Price Prediction Using Machine Learning
-
-* Regression Models
-* Data Analysis
-* Flask
-
-### Breast Cancer Detection Using Machine Learning
-
-* Classification Models
-* Data Science
-
-### Weather Dashboard Application
-
-* HTML
-* CSS
-* JavaScript
+A decentralized AI marketplace for secure AI model sharing using blockchain technology.
 
 ---
 
-## 📄 Research Publication
+## Face Enhancement & Reconstruction from CCTV Footage
 
-### Provenance Tracking, Universal Scoring, and Token-Based Incentive Mechanism Enabled AI Model Marketplace
+**Python • OpenCV • Flask • AI/ML**
 
-Research Areas:
-
-* Artificial Intelligence
-* Decentralized AI Ecosystems
-* AI Marketplace Architecture
-* Provenance Tracking
-* Universal Scoring Systems
-* Token-Based Incentive Mechanisms
+AI-powered image enhancement and reconstruction system for low-quality CCTV footage.
 
 ---
 
-## 📂 Project Structure
+## AI Image Generator with Stable Diffusion
 
-```bash
-aryan-saini-portfolio/
+**Python • PyTorch • Hugging Face**
+
+Generate AI images from text prompts using Stable Diffusion.
+
+---
+
+## AI Virtual Assistant
+
+**JavaScript • HTML • CSS**
+
+Voice-enabled AI assistant for performing everyday tasks.
+
+---
+
+## Diabetes Prediction
+
+**Python • Machine Learning**
+
+Prediction model using supervised learning algorithms.
+
+---
+
+## Car Price Prediction
+
+**Python • Flask • Pandas**
+
+Regression model for estimating car prices.
+
+---
+
+## Breast Cancer Detection
+
+**Python • Machine Learning**
+
+Classification model for breast cancer diagnosis.
+
+---
+
+## Weather Dashboard
+
+**HTML • CSS • JavaScript**
+
+Responsive weather application using weather APIs.
+
+---
+
+# 📄 Research Publication
+
+## Provenance Tracking, Universal Scoring, and Token-Based Incentive Mechanism Enabled AI Model Marketplace
+
+Research Areas
+
+- Artificial Intelligence
+- Blockchain
+- Decentralized AI Marketplace
+- Provenance Tracking
+- Universal Scoring
+- Token-Based Incentive Mechanism
+
+---
+
+# 📂 Project Structure
+
+```text
+Portfolio-Aryansaini/
 │
 ├── index.html
 ├── README.md
 │
 ├── assets/
 │   ├── css/
-│   │   └── styles.css
-│   │
 │   ├── js/
-│   │   └── main.js
-│   │
 │   ├── img/
-│   │   └── Photo AS.jpeg
-│   │
+│   │     └── Photo AS.png
 │   ├── pdf/
-│   │   └── Resume Aryan Saini.pdf
-│   │
+│   │     └── Resume Aryan Saini.pdf
 │   ├── portfolio-home.png
 │   └── portfolio-projects.png
 ```
 
 ---
 
-## ⚙️ Installation
-
-Clone Repository
+# ⚙️ Installation
 
 ```bash
-git clone https://github.com/Aryan132005/aryan-saini-portfolio.git
+git clone https://github.com/Aryan132005/Portfolio-Aryansaini.git
 ```
 
-Move into project directory
-
 ```bash
-cd aryan-saini-portfolio
+cd Portfolio-Aryansaini
 ```
 
-Run Locally
+Run using Live Server
 
-```bash
-Open index.html
-```
+or simply open
 
-or
-
-```bash
-Use VS Code Live Server
+```text
+index.html
 ```
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-📧 Email: [aryansaini132005@gmail.com](mailto:aryansaini132005@gmail.com)
+📧 Email
 
-🐙 GitHub: https://github.com/Aryan132005
+aryansaini132005@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/aryan-saini-3618472a1
+🌐 Portfolio
+
+https://aryansaini-portfolio.vercel.app/
+
+🐙 GitHub
+
+https://github.com/Aryan132005
+
+💼 LinkedIn
+
+https://linkedin.com/in/aryan-saini-3618472a1
 
 📍 Jaipur, Rajasthan, India
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
 If you like this project, please consider giving it a ⭐ on GitHub.
 
@@ -246,8 +278,8 @@ If you like this project, please consider giving it a ⭐ on GitHub.
 
 <div align="center">
 
-### Made with ❤️ by Aryan Saini
+## Made with ❤️ by Aryan Saini
 
-### AI/ML Engineer • Python Developer • Frontend Developer
+### Software Developer • AI/ML Engineer • Python Developer • Full Stack Developer
 
 </div>
