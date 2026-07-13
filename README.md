@@ -2,8 +2,6 @@
 
 🌐 **Live Portfolio:** https://aryansaini-portfolio.vercel.app/
 
-📂 **GitHub Repository:** https://github.com/Aryan132005/Portfolio-Aryansaini
-
 ---
 
 # 🏠 Portfolio Preview
@@ -76,15 +74,6 @@ I enjoy building intelligent systems, developing scalable software, and solving 
 📅 2023 – 2027
 
 📊 CGPA: **8.4**
-
----
-
-## Senior Secondary Education
-
-**Shri Kalyan Shiksha Niketan Sr. Sec. School**
-
-- Class X – 86%
-- Class XII – 69%
 
 ---
 
