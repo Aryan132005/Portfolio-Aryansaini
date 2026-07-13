@@ -1,6 +1,6 @@
 # 🚀 Aryan Saini Portfolio
 
-🌐 **Live Portfolio:** https://aryansaini-portfolio.vercel.app/
+🌐 **Live Portfolio:** https://portfolio-aryansaini.vercel.app/
 
 ---
 
