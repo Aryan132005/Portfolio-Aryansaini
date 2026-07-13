@@ -12,9 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
     strings: [
       'AI/ML Engineer',
       'Python Developer',
-      'Frontend Developer',
+      'Full-Stack Developer',
       'Problem Solver',
-      'B.Tech CSE Student'
+      'B.Tech CSE(AIML) Student'
     ],
     typeSpeed: 60,
     backSpeed: 35,
